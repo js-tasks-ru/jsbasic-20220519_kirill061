@@ -19,7 +19,8 @@ function print(text) {
  */
 function isValid(name) {
   // ваш код...
-}
+  if(!!name)
+}isValid(name)
 
 /**
  * Эту функцию трогать не нужно
